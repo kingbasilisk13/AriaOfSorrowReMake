@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1280"
+   height="160"
+   viewBox="0 0 1280 160"
+   sodipodi:docname="Corridor1.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.6415999"
+     inkscape:cx="256.20607"
+     inkscape:cy="27.460458"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="1280"
+       height="160"
+       preserveAspectRatio="none"
+       xlink:href="Corridor1.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="m -0.13730229,111.76406 36.24780429,-0.0687 32.197386,32.06009 1143.796712,-0.13731 31.4422,-31.92278 36.2478,0.27461 0.2746,48.39905 -1280.54975801,-0.1373 z"
+       id="path286" />
+    <path
+       style="fill:#000000"
+       d="M -0.97087379,-0.77669903 1280.7767,-1.4563107 l 0.2537,65.8167587 -33.2959,0.06865 -0.034,-47.884173 -207.7383,0.06865 0.4265,15.692249 -32.7913,-0.145632 0.097,-15.703883 -223.9806,0.04854 0.75243,15.995145 -32.81554,0.242719 0.12136,-16.286408 -223.98058,0.02427 0.46116,16.019417 -32.62136,-0.194174 0.0243,-15.873787 -80.07281,0.02427 0.26699,-16.2378644 -63.76214,-0.0728155 0.21845,16.4320389 -80.38835,0.02427 0.43689,15.898058 -32.81553,-0.09709 0.0485,-15.92233 -206.966021,-0.04854 -0.02427,48.106796 H -2.3300971 Z"
+       id="path221" />
+  </g>
+</svg>

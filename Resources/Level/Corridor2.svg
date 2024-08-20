@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="768"
+   height="160"
+   viewBox="0 0 768 160"
+   sodipodi:docname="Corridor2.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.1458333"
+     inkscape:cx="430.13592"
+     inkscape:cy="26.097087"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="768"
+       height="160"
+       preserveAspectRatio="none"
+       xlink:href="Corridor2.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="M -2.3300969,-1.3980585 771.02912,-2.3300975 767.8835,63.786408 735.84466,64.368932 735.6699,16.31068 l -207.55339,0.174757 -0.0583,16.019417 -32.33009,0.116505 0.29126,-16.252427 -223.99613,0.436868 0.32953,15.652461 -32.49945,-0.329526 0.12357,-15.693651 -207.58855,-0.299162 v 48.582525 l -36.2912626,-0.05825 z"
+       id="path170"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#000000"
+       d="m -0.70024167,112.327 34.18826967,-0.20595 33.117312,32.33469 634.46262,-0.22273 33.17476,-32.15534 h 34.80583 l 0.84466,51.40777 -772.4563164,-1.31069 z"
+       id="path172"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>

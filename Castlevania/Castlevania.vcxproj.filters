@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Levels">
+      <UniqueIdentifier>{d256cd5c-3e72-4187-8e97-80e1544c1a9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Levels">
+      <UniqueIdentifier>{99804c15-c5e9-4091-81b4-ab30e98f9dcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects">
+      <UniqueIdentifier>{efaee5d4-c36e-4763-a009-7a1f6f60bc6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects">
+      <UniqueIdentifier>{0a387e1f-16e7-4802-8ab1-19f7ff975697}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{99e5d4a7-3896-4bf3-8b87-449460deb2a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers">
+      <UniqueIdentifier>{eb0ecbc5-634c-48db-8e1c-90bf265b99d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Levels\BaseClass">
+      <UniqueIdentifier>{43351c23-443d-430a-ac3a-f2e3fbd3134c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Levels\DerivedClasses">
+      <UniqueIdentifier>{a0f4303c-3151-46cb-9a8f-e86c145676c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Levels\BaseClass">
+      <UniqueIdentifier>{826517b1-e8fb-44a1-a098-50c132079c36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Levels\DerivedClasses">
+      <UniqueIdentifier>{ca517220-62d0-43ad-a45c-b15a073e9234}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\BaseClass">
+      <UniqueIdentifier>{a7d59792-a358-4e91-a688-1d024e376de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\BaseClass">
+      <UniqueIdentifier>{89bd6677-d456-40de-ae6c-b50c667fae15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\Enemies">
+      <UniqueIdentifier>{204994e3-09a0-4712-9a43-85ac6abdaaa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\Enemies\BaseClass">
+      <UniqueIdentifier>{77418abd-69f7-4c8d-87c5-97d19e3c08ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\Enemies">
+      <UniqueIdentifier>{80bb20c1-1453-40c0-aac2-9abf562a93a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\Enemies\BaseClass">
+      <UniqueIdentifier>{886d1638-4217-4c64-b875-da12216c8a08}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gold.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerProjectileSpear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hud.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WallChandelier.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files\Levels\BaseClass</Filter>
+    </ClCompile>
+    <ClCompile Include="CastleEntrance.cpp">
+      <Filter>Source Files\Levels\DerivedClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Corridor1Level.cpp">
+      <Filter>Source Files\Levels\DerivedClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterLevel.cpp">
+      <Filter>Source Files\Levels\DerivedClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\GameObjects\BaseClass</Filter>
+    </ClCompile>
+    <ClCompile Include="GraveKeeperBackDash.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Corridor2Level.cpp">
+      <Filter>Source Files\Levels\DerivedClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BossRoomLevel.cpp">
+      <Filter>Source Files\Levels\DerivedClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="StoneHallwayLevel.cpp">
+      <Filter>Source Files\Levels\DerivedClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\GameObjects\Enemies\BaseClass</Filter>
+    </ClCompile>
+    <ClCompile Include="BoneThrower.cpp">
+      <Filter>Source Files\GameObjects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Source Files\GameObjects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyProjectile.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gold.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerProjectileSpear.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hud.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WallChandelier.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files\Levels\BaseClass</Filter>
+    </ClInclude>
+    <ClInclude Include="CastleEntrance.h">
+      <Filter>Header Files\Levels\DerivedClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Corridor1Level.h">
+      <Filter>Header Files\Levels\DerivedClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterLevel.h">
+      <Filter>Header Files\Levels\DerivedClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files\GameObjects\BaseClass</Filter>
+    </ClInclude>
+    <ClInclude Include="GraveKeeperBackDash.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Corridor2Level.h">
+      <Filter>Header Files\Levels\DerivedClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BossRoomLevel.h">
+      <Filter>Header Files\Levels\DerivedClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="StoneHallwayLevel.h">
+      <Filter>Header Files\Levels\DerivedClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files\GameObjects\Enemies\BaseClass</Filter>
+    </ClInclude>
+    <ClInclude Include="BoneThrower.h">
+      <Filter>Header Files\GameObjects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Header Files\GameObjects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyProjectile.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

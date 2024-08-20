@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="512"
+   height="598"
+   viewBox="0 0 512 598"
+   sodipodi:docname="StoneHallway.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.7173913"
+     inkscape:cx="305.6962"
+     inkscape:cy="363.92405"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="512"
+       height="598"
+       preserveAspectRatio="none"
+       xlink:href="StoneHallway.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="m -2.6202532,550.1076 39.7405062,-0.0728 30.424051,31.95253 376.406876,-0.31145 31.60051,-31.65198 38.18824,-0.1544 0.772,55.06929 -520.9169933,3.54221 z"
+       id="path66" />
+    <path
+       style="fill:#000000"
+       d="m -7.5696203,222.72152 107.1392403,-0.29114 -3.12115,23.78599 -64.230358,0.10293 -0.102933,79.77329 80.390881,-0.51467 v 8.85226 l -80.185015,-0.20587 -0.308799,55.78983 h 68.759424 l 120.63778,31.80638 101.1834,0.10294 57.12797,56.20156 4.73493,-0.10293 0.10293,23.93198 -388.4804895,0.10393 z"
+       id="path68"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#000000"
+       d="m 475.13924,220.10127 55.31646,0.29114 -16.59494,281.53164 -34.20886,-0.29113 -0.29168,-159.58568 -192.07348,0.41174 v -16.93253 l 122.85567,-31.69417 h 69.36392 z"
+       id="path70"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

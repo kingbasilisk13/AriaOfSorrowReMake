@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="510"
+   height="160"
+   viewBox="0 0 510 160"
+   sodipodi:docname="BossRoom.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.2849254"
+     inkscape:cx="333.05244"
+     inkscape:cy="153.61552"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="510"
+       height="160"
+       preserveAspectRatio="none"
+       xlink:href="BossRoom.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="M -0.10941276,64.061171 0.21882552,-0.71118294 H 513.09466 V 63.9821 h -33.7318 V 16.246966 H 272.21895 v 16.193918 h -32.5503 V 16.63074 H 32.386177 v 47.970292 z"
+       id="path120" />
+    <path
+       style="fill:#000000"
+       d="M -0.15473301,112.10407 H 33.344964 l 31.913683,31.91368 H 446.3759 l 30.45321,-32.20381 h 34.64085 v 51.66148 H -2.1662621 Z"
+       id="path122"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>
